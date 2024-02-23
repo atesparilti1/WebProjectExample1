@@ -24,12 +24,12 @@
   border-radius: 5px;
 }
 
-.btn-outline{
+.btn-outline {
   background-color: transparent;
   border: 1px #fff solid;
 }
 
-.btn:hover{
+.btn:hover {
   transform: scale(0.96);
 }
 
@@ -112,7 +112,7 @@
 }
 
 
-.text-center{
+.text-center {
   text-align: center;
 }
 
@@ -139,7 +139,6 @@
 }
 
 
-
 .flex {
   display: flex;
   justify-content: center;
@@ -156,51 +155,51 @@
   height: 100%;
 }
 
-.grid-3{
-  grid-template-columns: repeat(3,1fr);
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
 }
 
 /*MARGIN*/
 
-.my-1{
+.my-1 {
   margin: 1rem;
 }
 
-.my-2{
+.my-2 {
   margin: 1.5rem;
 }
 
-.my-3{
+.my-3 {
   margin: 2rem;
 }
 
-.my-4{
+.my-4 {
   margin: 3rem;
 }
 
-.my-5{
+.my-5 {
   margin: 4rem;
 }
 
 /*PADDING*/
 
-.py-1{
+.py-1 {
   padding: 1rem;
 }
 
-.py-2{
+.py-2 {
   padding: 1.5rem;
 }
 
-.py-3{
+.py-3 {
   padding: 2rem;
 }
 
-.py-4{
+.py-4 {
   padding: 3rem;
 }
 
-.py-5{
+.py-5 {
   padding: 4rem;
 }
 

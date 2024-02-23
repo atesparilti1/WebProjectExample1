@@ -312,9 +312,10 @@ pre {
     transform: translateX(0);
   }
 }
-@media (max-width: 1000px){
 
-  .showcase-form{
+@media (max-width: 1000px) {
+
+  .showcase-form {
     width: 340px;
   }
 }
